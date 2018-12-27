@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.12.2)  26 DEC 2018 15:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.12.2)  26 DEC 2018 23:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -700,11 +700,11 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 39--39
 [] 
  []
 
-LaTeX Font Info:    Try loading font information for U+eur on input line 97.
+LaTeX Font Info:    Try loading font information for U+eur on input line 98.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/ueur.fd
 File: ueur.fd 2013/01/14 v3.01 Euler Roman
 )
-Overfull \hbox (12.97902pt too wide) in paragraph at lines 100--101
+Overfull \hbox (12.97902pt too wide) in paragraph at lines 102--103
 []\OT1/cmr/bx/n/10.95 Kishimoto K\OT1/cmr/m/n/10.95 , Boltz T, Ngo K, Hoff-mann
  A. Dif-fer-en-tial Gene Ex-pres-sion Anal-y-sis of an NF\U/eur/m/n/10.95 ^^T\O
 T1/cmr/m/n/10.95 B/RelA
@@ -713,19 +713,19 @@ T1/cmr/m/n/10.95 B/RelA
 [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 139--144
+Underfull \hbox (badness 10000) in paragraph at lines 140--145
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 175.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 176.
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 175.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 176.
  (./Kensei_resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 175.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 175.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 176.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 176.
 Package rerunfilecheck Info: File `Kensei_resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 175.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 176.
  ) 
 Here is how much of TeX's memory you used:
  6487 strings out of 492649
@@ -741,7 +741,7 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></us
 r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb>
-Output written on Kensei_resume.pdf (2 pages, 87493 bytes).
+Output written on Kensei_resume.pdf (2 pages, 87469 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  39 compressed objects within 1 object stream
